@@ -2,7 +2,7 @@
   "Photos": [
     {
       "height": 2020,
-      "compressed_path": "./photos/Mockups/1.png",
+      "compressed_path": "./photos/Mockups/1.min.png",
       "width": 1440,
       "compressed": true,
       "placeholder_path": "./photos/Mockups/1.png",
@@ -10,7 +10,7 @@
     },
     {
       "height": 1024,
-      "compressed_path": "./photos/Mockups/2.png",
+      "compressed_path": "./photos/Mockups/2.min.png",
       "width": 1440,
       "compressed": true,
       "placeholder_path": "./photos/Mockups/2.png",
@@ -18,7 +18,7 @@
     },
     {
       "height": 1000,
-      "compressed_path": "./photos/Mockups/3.png",
+      "compressed_path": "./photos/Mockups/3.min.png",
       "width": 1000,
       "compressed": true,
       "placeholder_path": "./photos/Mockups/3.png",

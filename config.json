@@ -2,19 +2,19 @@
   "Mockups": [
     {
       "height": 2020,
-      "compressed_path": "./photos/Mockups/Desktop.min.png",
+      "compressed_path": "./photos/Mockups/1.png",
       "width": 1440,
       "compressed": true,
-      "placeholder_path": "./photos/Mockups/Desktop.placeholder.png",
-      "path": "./photos/Mockups/Desktop.png"
+      "placeholder_path": "./photos/Mockups/1.png",
+      "path": "./photos/Mockups/1.png"
     },
     {
       "height": 1024,
-      "compressed_path": "./photos/Mockups/curriculum.min.png",
+      "compressed_path": "./photos/Mockups/2.png",
       "width": 1440,
       "compressed": true,
-      "placeholder_path": "./photos/Mockups/curriculum.placeholder.png",
-      "path": "./photos/Mockups/curriculum.png"
+      "placeholder_path": "./photos/Mockups/2.png",
+      "path": "./photos/Mockups/2.png"
     },
     {
       "height": 1000,
